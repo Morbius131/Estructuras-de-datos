@@ -1,3 +1,5 @@
+//PROGRAMA QUE CUENTA EL NUMERO DE CONSONANTES EN UNA PALABRA
+
 #include <iostream>
 
 using namespace std;
