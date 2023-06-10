@@ -1,3 +1,5 @@
+//Programa que cuenta el numero de chocolates maximos que se pueden comprar dando el dinero, el precio y el valor por envoltura
+
 #include <iostream>
 
 using namespace std;
